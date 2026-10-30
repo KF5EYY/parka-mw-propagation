@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#f7fafb"><meta name="description" content="Parka Arctic Medium Wave DX propagation monitor and field guide. NOAA data, transparent directional interpretation, and practical listening strategy.">
+<title>Parka | MW Propagation Navigator</title>
+<link rel="stylesheet" href="assets/styles.css">
+<script src="assets/app.js" defer></script>
+</head>
+<body>
+<div class="app">
+<header class="topbar">
+  <div class="brand"><span class="logo">P<span class="logo-dot">●</span></span><div><div class="brand-name">PARKA <span>MW PROPAGATION NAVIGATOR</span></div><div class="byline">Ashraf Chaabane · KF5EYY <span class="dot-sep">·</span> Arctic Norway · 17–22 November 2026</div></div></div>
+  <div class="topright"><span class="utc" id="utc">UTC —</span><span id="status" class="live-badge">Checking archive</span><button class="btn subtle" id="refresh" title="Reload stored NOAA data">↻ Refresh</button></div>
+</header>
+<div class="navwrap"><nav class="nav" aria-label="Main pages"><a href="#propagation" data-page="propagation">◉ <span>Live propagation</span></a><a href="#guide" data-page="guide">☷ <span>Propagation field guide</span></a></nav><span class="nav-note">NOAA/SWPC observations · 30-minute collection schedule</span></div>
+<main id="main" class="main" tabindex="-1"></main>
+<footer>Prepared for Parka DXpedition · All observation times in UTC · Kp is planetary, not local Polar K · Directional outlooks are heuristic, not measured reception.</footer>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
