@@ -1,1 +1,13 @@
-{}
+{
+  "collected_at": "2026-10-30T08:16:53Z",
+  "kp": 1.67,
+  "kp_at": "2026-10-30T03:00:00Z",
+  "wind_kms": 334.0,
+  "wind_at": "2026-10-30T08:08:00Z",
+  "bz_nt": 0.0,
+  "bz_at": "2026-10-30T08:08:00Z",
+  "protons_pfu": 0.23,
+  "protons_at": "2026-10-30T08:05:00Z",
+  "quality": "complete",
+  "errors": ""
+}
