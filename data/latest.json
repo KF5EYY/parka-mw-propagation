@@ -1,13 +1,13 @@
 {
-  "collected_at": "2026-11-03T17:30:00Z",
-  "kp": "",
-  "kp_at": "",
-  "wind_kms": 370.8,
-  "wind_at": "2026-11-03T17:30:00Z",
-  "bz_nt": -1.88,
-  "bz_at": "2026-11-03T17:30:00Z",
-  "protons_pfu": 0.261,
-  "protons_at": "2026-11-03T17:30:00Z",
-  "quality": "partial",
-  "errors": "Missing: kp"
+  "collected_at": "2026-11-04T03:00:00Z",
+  "kp": 2.33,
+  "kp_at": "2026-11-04T00:00:00Z",
+  "wind_kms": 367.68,
+  "wind_at": "2026-11-04T03:00:00Z",
+  "bz_nt": -1.37,
+  "bz_at": "2026-11-04T03:00:00Z",
+  "protons_pfu": 0.214,
+  "protons_at": "2026-11-04T03:00:00Z",
+  "quality": "complete",
+  "errors": ""
 }
