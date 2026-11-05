@@ -1,11 +1,11 @@
 {
   "from": "2026-10-17T00:00:00Z",
-  "to": "2026-11-05T07:00:00Z",
-  "slots": 927,
-  "stored_total": 927,
-  "complete": 319,
-  "partial": 608,
+  "to": "2026-11-05T15:30:00Z",
+  "slots": 944,
+  "stored_total": 944,
+  "complete": 335,
+  "partial": 609,
   "unavailable": 0,
-  "latest": "2026-11-05T07:00:00Z",
+  "latest": "2026-11-05T15:30:00Z",
   "source_errors": []
 }
